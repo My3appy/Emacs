@@ -3,11 +3,10 @@
 *** Lesson 3
 - sdfsdfsdf
   fgsdfgsdfg
-  -sdfsdfsdf
+-sdfsdfsdf
   sdfgsdfg
-  -sdffgdfgdfg
+-sdffgdfgdfg
   sfgdsfgsdfg
-  -fdgdfgdf
-  fghdfgjdfgjjdfg
-jlksdfjklasdfjklasdjfkla
-sdasdfsadfasd
+-fdgdfgdf   fghdfgjdfgjjdfg jlksdfjklasdfjklasdjfkla sdasdfsadfasd
+
+lorem ipsum
