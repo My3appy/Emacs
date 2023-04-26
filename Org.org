@@ -1,3 +1,7 @@
+Abkürzungen
+NAVO
+
+
 * LS
 ** Beschreibung: DVfR, Deutsche Vereinigung für Rehabilitätion
 ** Ansprechpartner sind Herr Engel und Herr Kinas.
@@ -9,10 +13,19 @@
 
 
 * FjD
-** Zulieferer für Software
+** Hersteller der NAVO Plattform
 ** https://www.fjd.de/
 
 *** Beweiswerterhaltung
+
+*** Reinhard Weber PO
+*** Sabine Lieckfeldt ??
+*** Wallat
+*** T
+
+
+**** Widerspruchsverfahren:
+
 
 
 
@@ -21,11 +34,11 @@
 *** Zulieferer für Software
 *** https://www.prosoz.de/
 
-**** 26.04.2023 Termin mit Herrn Beier, Frau Wallat.
-**** Kosten können laut Frau Wallat nicht direkt aber auch nicht indirekt über die Kommunen abgedeckt werden. Dies liegt einzig und allein in der Verantwortung des Fachverfahrenherstellers.
-**** Es ist Beihilferechtswidrig, wenn die Kommunen jetzt die Prositz bezahlen.
-**** Herr Beier war da etwas offener und schlug eine Förderung der Kommunen an, was eigentliche eine indirekte Förderung der Fachverfahrenhersteller gleich kommt.
-**** Einigkeit darüber, dass Standards nicht übereinstimmen, der aktuelle Standard ist veraltet.
+**** 26.04.2023 Termin mit Herrn Beier, Frau Wallat 
+Kosten können laut Frau Wallat nicht direkt aber auch nicht indirekt über die Kommunen abgedeckt werden. Dies liegt einzig und allein in der Verantwortung des Fachverfahrenherstellers.
+Es ist Beihilferechtswidrig, wenn die Kommunen jetzt die Prositz bezahlen.
+Herr Beier war da etwas offener und schlug eine Förderung der Kommunen an, was eigentliche eine indirekte Förderung der Fachverfahrenhersteller gleich kommt.
+Einigkeit darüber, dass Standards nicht übereinstimmen, der aktuelle Standard ist veraltet.
 
 
 ** Lämmerzahl
