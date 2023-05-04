@@ -78,10 +78,13 @@ Zulieferer für Software
 https://www.laemmerzahl.de/
 
 *** Jour Fix vom 04.05.2023
-**** Unzufrieden mit der aktuellen Kommunikation
-**** Das EGH Schema wurde zurückgezogen - ohne Begründung - ohne eindeutige Kommunikation - ohne belastbaren Zeitplan
-**** Das HzP Schema ist noch nicht freigegeben, da Lämmerzahl intern Ressourcen zu den Entwicklungen allokieren muss, warten die hier.
-**** Über Prosoz hatte Lämmerzahl erfahren, das XSozial zurückgezogen werden soll, da Lämmerzahl in der Entwicklung schon fortgeschritten ist. Wäre dies sehr ungünstig.
+// Unzufrieden mit der aktuellen Kommunikation
+// Das EGH Schema wurde zurückgezogen - ohne Begründung - ohne eindeutige Kommunikation - ohne belastbaren Zeitplan
+// Informationen von Jess, Adrian, Frau Wallat
+// Das HzP Schema ist noch nicht freigegeben, da Lämmerzahl intern Ressourcen zu den Entwicklungen allokieren muss, warten die hier.
+// Informationen von Jess
+// Über Prosoz hatte Lämmerzahl erfahren, das XSozial basis  zurückgezogen werden soll, da Lämmerzahl in der Entwicklung schon fortgeschritten ist. Wäre dies sehr ungünstig.
+// Basal: XSozial basis bieten wir gar nicht an, Absicherung von Jess
 
 
 
