@@ -1,10 +1,37 @@
 Abkürzungen
 NAVO
+FITConnect
 
+* Glossar
+OFA - Online Fachverfahren
+OFA-Labore - Fachverfahrenhersteller
+HzL - Hilfe zum Lebensunterhalt
+HzL - Labor ??
+XÖV - Standard Standard Schnittsteller Öffentliche Verwaltung
+XÖV - Fachstandard
+XSozial-Basis
+EFA - Einer für alle
+FIM - Föderales Informationsmanagement (wie ist die Leistung beschrieben, wie sieht der Prozess aus, und welche Datenfelder werden benötigt) 
+OD - ??
+
+
+Das OZG Datenschema mit der Version 1. EGH (Eingliederungshilfe ist nicht final) 2.  Landesblindengeld. 
+
+
+
+* meeting von heute
+Anforderungen über ein Muster Template ( Anforderung) in den Prozess eingesteuert.
+Link zum SharePoint anfordern ...
 
 * LS
 ** Beschreibung: DVfR, Deutsche Vereinigung für Rehabilitätion
 ** Ansprechpartner sind Herr Engel und Herr Kinas.
+
+Offener Punkt mit LS: Werden schon online Bescheide versandt ?
+
+* Materna
+** Was machen die
+*** https://www.materna.de/EN/Home/home_node.html
 
 
 * BEC
@@ -22,9 +49,14 @@ NAVO
 *** Sabine Lieckfeldt ??
 *** Wallat
 *** T
+*** Basal Nasir
 
 
 **** Widerspruchsverfahren:
+Wie muss die Vorlage aussehen
+Wir bekommen das Template
+Vorstellen von der Strecke
+
 
 
 
@@ -42,10 +74,14 @@ Einigkeit darüber, dass Standards nicht übereinstimmen, der aktuelle Standard 
 
 
 ** Lämmerzahl
-*** Zulieferer für Software
-*** https://www.laemmerzahl.de/
+Zulieferer für Software
+https://www.laemmerzahl.de/
 
-**** Noch nicht kennen gelernt !
+*** Jour Fix vom 04.05.2023
+**** Unzufrieden mit der aktuellen Kommunikation
+**** Das EGH Schema wurde zurückgezogen - ohne Begründung - ohne eindeutige Kommunikation - ohne belastbaren Zeitplan
+**** Das HzP Schema ist noch nicht freigegeben, da Lämmerzahl intern Ressourcen zu den Entwicklungen allokieren muss, warten die hier.
+**** Über Prosoz hatte Lämmerzahl erfahren, das XSozial zurückgezogen werden soll, da Lämmerzahl in der Entwicklung schon fortgeschritten ist. Wäre dies sehr ungünstig.
 
 
 
