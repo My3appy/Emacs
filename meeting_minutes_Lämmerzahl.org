@@ -1,0 +1,14 @@
+#+TITLE: Meeting minutes
+#+SUBTITLE: xx
+#+DATE:
+#+AUTHOR: Bernd Schröder
+
+
+* Wednesday, May 10, 2023: Kick off
+** Teilnehmer
+
+
+** Diskussionen
+** Entscheidungen
+
+* Wednesday, May 10, 2023: Next steps
